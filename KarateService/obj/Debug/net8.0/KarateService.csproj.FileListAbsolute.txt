@@ -1,0 +1,12 @@
+c:\Users\mazat\OneDrive\desktop\it-training\karate-chop-kata\KarateService\obj\Debug\net8.0\KarateService.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\mazat\OneDrive\desktop\it-training\karate-chop-kata\KarateService\obj\Debug\net8.0\KarateService.AssemblyInfoInputs.cache
+c:\Users\mazat\OneDrive\desktop\it-training\karate-chop-kata\KarateService\obj\Debug\net8.0\KarateService.AssemblyInfo.cs
+c:\Users\mazat\OneDrive\desktop\it-training\karate-chop-kata\KarateService\obj\Debug\net8.0\KarateService.csproj.CoreCompileInputs.cache
+c:\Users\mazat\OneDrive\desktop\it-training\karate-chop-kata\KarateService\obj\Debug\net8.0\KarateService.sourcelink.json
+C:\Users\mazat\OneDrive\desktop\it-training\karate-chop-kata\KarateService\bin\Debug\net8.0\KarateService.deps.json
+C:\Users\mazat\OneDrive\desktop\it-training\karate-chop-kata\KarateService\bin\Debug\net8.0\KarateService.dll
+C:\Users\mazat\OneDrive\desktop\it-training\karate-chop-kata\KarateService\bin\Debug\net8.0\KarateService.pdb
+C:\Users\mazat\OneDrive\desktop\it-training\karate-chop-kata\KarateService\obj\Debug\net8.0\KarateService.dll
+C:\Users\mazat\OneDrive\desktop\it-training\karate-chop-kata\KarateService\obj\Debug\net8.0\refint\KarateService.dll
+C:\Users\mazat\OneDrive\desktop\it-training\karate-chop-kata\KarateService\obj\Debug\net8.0\KarateService.pdb
+C:\Users\mazat\OneDrive\desktop\it-training\karate-chop-kata\KarateService\obj\Debug\net8.0\ref\KarateService.dll
