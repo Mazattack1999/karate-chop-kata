@@ -1003,11 +1003,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mazat\\OneDrive\\desktop\\it-training\\karate-chop-kata\\KarateServiceTests\\KarateServiceTests.csproj",
+      "projectUniqueName": "c:\\Users\\mazat\\OneDrive\\desktop\\it-training\\karate-chop-kata\\KarateServiceTests\\KarateServiceTests.csproj",
       "projectName": "KarateServiceTests",
-      "projectPath": "C:\\Users\\mazat\\OneDrive\\desktop\\it-training\\karate-chop-kata\\KarateServiceTests\\KarateServiceTests.csproj",
+      "projectPath": "c:\\Users\\mazat\\OneDrive\\desktop\\it-training\\karate-chop-kata\\KarateServiceTests\\KarateServiceTests.csproj",
       "packagesPath": "C:\\Users\\mazat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mazat\\OneDrive\\desktop\\it-training\\karate-chop-kata\\KarateServiceTests\\obj\\",
+      "outputPath": "c:\\Users\\mazat\\OneDrive\\desktop\\it-training\\karate-chop-kata\\KarateServiceTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mazat\\AppData\\Roaming\\NuGet\\NuGet.Config"

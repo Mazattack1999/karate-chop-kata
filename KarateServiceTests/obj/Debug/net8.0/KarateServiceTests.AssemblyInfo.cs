@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KarateServiceTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6d5d040886df3c86c3cc614ed81e7c6a256cf6b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e556391d5a6271966ed70fafc61ebee6ddc14794")]
 [assembly: System.Reflection.AssemblyProductAttribute("KarateServiceTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KarateServiceTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
